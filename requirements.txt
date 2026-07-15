@@ -1,2 +1,2 @@
-import gradio as gr
-import requests
+gradio
+requests
